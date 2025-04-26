@@ -8,8 +8,8 @@ Aqui registro minha evolução e os conceitos que venho aprendendo na prática. 
 ## 📚 Progresso
 
 ✔️ Curso: **Mundo 1 - Fundamentos**  
-✔️ Aulas assistidas: até a **Aula 6**  
-✔️ Exercícios resolvidos: **4 exercícios**
+✔️ Aulas assistidas: até a **Aula 7**  
+✔️ Exercícios resolvidos: **15 exercícios**
 
 ---
 
@@ -21,6 +21,17 @@ Aqui registro minha evolução e os conceitos que venho aprendendo na prática. 
 | `ex002` | Soma (int) | Lê dois inteiros e exibe a soma |
 | `ex003` | Soma (float) | Lê dois números reais e exibe a soma |
 | `ex004` | Tipos de dados | Lê qualquer valor e mostra várias informações sobre ele |
+| `ex005` | Antecessor e sucessor | Mostra antecessor e sucessor de um número |
+| `ex006` | Dobro, triplo e raiz quadrada | Calcula operações sobre um número |
+| `ex007` | Média de notas | Lê duas notas e calcula a média |
+| `ex008` | Conversão de metros | Converte metros para centímetros e milímetros |
+| `ex009` | Tabuada | Mostra a tabuada de um número |
+| `ex010` | Conversor de moedas | Converte reais para dólares |
+| `ex011` | Cálculo de área | Calcula área de uma parede e quantidade de tinta |
+| `ex012` | Desconto de preço | Calcula preço com desconto |
+| `ex013` | Aumento salarial | Calcula novo salário com aumento |
+| `ex014` | Conversor de temperaturas | Converte graus Celsius para Fahrenheit |
+| `ex015` | Aluguel de Carros | Calcula o preço a pagar pelo aluguel com base nos dias e km percorridos |
 
 ---
 
@@ -33,8 +44,8 @@ Todo código aqui é feito por mim, com base nas explicações do curso.
 
 ## 🚧 Em andamento
 
-- Mais exercícios virão conforme avanço nas aulas!
-- Pretendo aplicar os conceitos aprendidos em projetos reais no futuro.
+- Avançar nos estudos de estruturas condicionais e repetições.
+- Criar pequenos projetos com tudo que foi aprendido.
 
 ---
 
