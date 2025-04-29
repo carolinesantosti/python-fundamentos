@@ -8,8 +8,8 @@ Aqui registro minha evolução e os conceitos que venho aprendendo na prática. 
 ## 📚 Progresso
 
 ✔️ Curso: **Mundo 1 - Fundamentos**  
-✔️ Aulas assistidas: até a **Aula 7**  
-✔️ Exercícios resolvidos: **15 exercícios**
+✔️ Aulas assistidas: até a **Aula 8**  
+✔️ Exercícios resolvidos: **21 exercícios**
 
 ---
 
@@ -32,6 +32,12 @@ Aqui registro minha evolução e os conceitos que venho aprendendo na prática. 
 | `ex013` | Aumento salarial | Calcula novo salário com aumento |
 | `ex014` | Conversor de temperaturas | Converte graus Celsius para Fahrenheit |
 | `ex015` | Aluguel de Carros | Calcula o preço a pagar pelo aluguel com base nos dias e km percorridos |
+| `ex016` | Parte inteira de número | Mostra apenas a parte inteira de um número real |
+| `ex017` | Cálculo da hipotenusa | Calcula a hipotenusa a partir dos catetos |
+| `ex018` | Seno, cosseno e tangente | Mostra seno, cosseno e tangente de um ângulo |
+| `ex019` | Sorteio de aluno | Escolhe aleatoriamente um aluno da lista |
+| `ex020` | Ordem de apresentação | Embaralha e mostra a ordem de alunos para apresentação |
+| `ex021` | Tocando música em Python | Toca um arquivo .mp3 com uso da biblioteca pygame |
 
 ---
 
