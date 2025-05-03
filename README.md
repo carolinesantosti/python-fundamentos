@@ -1,5 +1,3 @@
-# Conteúdo do README.md reconstruído após reset de ambiente
-readme_content = """
 # 🐍 Python Fundamentos
 
 Repositório com os exercícios práticos do Curso em Vídeo - Python (Prof. Guanabara). Aqui estão os códigos que estou usando para aprender e praticar os fundamentos da linguagem.
