@@ -44,4 +44,3 @@ Repositório com os exercícios práticos do Curso em Vídeo - Python (Prof. Gua
 🎯 **Status:** Estudo em andamento, atualizações frequentes.
 
 📌 Feito com ❤️ por [@carolinesantosti](https://github.com/carolinesantosti)
-"""
