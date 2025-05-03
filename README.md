@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Conteúdo do README.md reconstruído após reset de ambiente
 readme_content = """
 # 🐍 Python Fundamentos
