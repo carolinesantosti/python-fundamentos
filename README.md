@@ -1,59 +1,51 @@
-# 🐍 Estudos de Python - Curso em Vídeo (Prof. Guanabara)
+from pathlib import Path
 
-Este repositório contém meus exercícios práticos do **Curso de Python - Mundo 1: Fundamentos**, ministrado pelo professor Guanabara (Curso em Vídeo).  
-Aqui registro minha evolução e os conceitos que venho aprendendo na prática. 🚀
+# Conteúdo do README.md reconstruído após reset de ambiente
+readme_content = """
+# 🐍 Python Fundamentos
 
----
+Repositório com os exercícios práticos do Curso em Vídeo - Python (Prof. Guanabara). Aqui estão os códigos que estou usando para aprender e praticar os fundamentos da linguagem.
 
-## 📚 Progresso
+## 📚 Organização por Aulas
 
-✔️ Curso: **Mundo 1 - Fundamentos**  
-✔️ Aulas assistidas: até a **Aula 8**  
-✔️ Exercícios resolvidos: **21 exercícios**
+### Aula 6 - Fundamentos Iniciais
+- `ex001.py`: Mensagem de boas-vindas com nome.
+- `ex002.py`: Soma de dois números inteiros.
+- `ex003.py`: Soma com números float.
+- `ex004.py`: Análise de tipo primitivo e propriedades de entrada.
 
----
+### Aula 7 - Operações Básicas
+- `ex005.py`: Mostra o antecessor e o sucessor de um número.
+- `ex006.py`: Mostra o dobro, triplo e raiz quadrada.
+- `ex007.py`: Calcula a média entre duas notas.
+- `ex008.py`: Converte metros em centímetros e milímetros.
+- `ex009.py`: Mostra a tabuada de um número.
+- `ex010.py`: Conversão de reais para dólares.
+- `ex011.py`: Cálculo de área e tinta necessária.
+- `ex012.py`: Cálculo de desconto em um produto.
+- `ex013.py`: Cálculo de aumento salarial.
+- `ex014.py`: Conversão de temperatura Celsius para Fahrenheit.
+- `ex015.py`: Cálculo do aluguel de carros (dias e km).
 
-## 📂 Exercícios até agora
+### Aula 8 - Trabalhando com Módulos
+- `ex016.py`: Mostra a parte inteira de um número real.
+- `ex017.py`: Calcula a hipotenusa de um triângulo.
+- `ex018.py`: Calcula seno, cosseno e tangente de um ângulo.
+- `ex019.py`: Sorteia um aluno.
+- `ex020.py`: Sorteia a ordem de apresentação dos alunos.
+- `ex021.py`: Toca um arquivo de áudio (MP3).
 
-| Exercício | Tema | Descrição |
-|----------|------|-----------|
-| `ex001` | Boas-vindas | Lê o nome da pessoa e exibe uma saudação |
-| `ex002` | Soma (int) | Lê dois inteiros e exibe a soma |
-| `ex003` | Soma (float) | Lê dois números reais e exibe a soma |
-| `ex004` | Tipos de dados | Lê qualquer valor e mostra várias informações sobre ele |
-| `ex005` | Antecessor e sucessor | Mostra antecessor e sucessor de um número |
-| `ex006` | Dobro, triplo e raiz quadrada | Calcula operações sobre um número |
-| `ex007` | Média de notas | Lê duas notas e calcula a média |
-| `ex008` | Conversão de metros | Converte metros para centímetros e milímetros |
-| `ex009` | Tabuada | Mostra a tabuada de um número |
-| `ex010` | Conversor de moedas | Converte reais para dólares |
-| `ex011` | Cálculo de área | Calcula área de uma parede e quantidade de tinta |
-| `ex012` | Desconto de preço | Calcula preço com desconto |
-| `ex013` | Aumento salarial | Calcula novo salário com aumento |
-| `ex014` | Conversor de temperaturas | Converte graus Celsius para Fahrenheit |
-| `ex015` | Aluguel de Carros | Calcula o preço a pagar pelo aluguel com base nos dias e km percorridos |
-| `ex016` | Parte inteira de número | Mostra apenas a parte inteira de um número real |
-| `ex017` | Cálculo da hipotenusa | Calcula a hipotenusa a partir dos catetos |
-| `ex018` | Seno, cosseno e tangente | Mostra seno, cosseno e tangente de um ângulo |
-| `ex019` | Sorteio de aluno | Escolhe aleatoriamente um aluno da lista |
-| `ex020` | Ordem de apresentação | Embaralha e mostra a ordem de alunos para apresentação |
-| `ex021` | Tocando música em Python | Toca um arquivo .mp3 com uso da biblioteca pygame |
-
----
-
-## ✨ Objetivo
-
-Registrar minha evolução no Python desde os fundamentos, praticando diariamente com pequenos desafios.  
-Todo código aqui é feito por mim, com base nas explicações do curso.
+### Aula 9 - Manipulando Textos (Strings)
+- `ex022.py`: Lê nome completo e mostra análises (maiúsculas, minúsculas, número de letras, primeiro nome).
+- `ex023.py`: Separa dígitos em unidade, dezena, centena e milhar.
+- `ex024.py`: Verifica se o nome da cidade começa com "SANTO".
+- `ex025.py`: Verifica se o nome contém "SILVA".
+- `ex026.py`: Conta letras "A" e mostra posição da primeira e última ocorrência.
+- `ex027.py`: Mostra o primeiro e o último nome.
 
 ---
 
-## 🚧 Em andamento
+🎯 **Status:** Estudo em andamento, atualizações frequentes.
 
-- Avançar nos estudos de estruturas condicionais e repetições.
-- Criar pequenos projetos com tudo que foi aprendido.
-
----
-
-👩‍💻 **Caroline Gonçalves Santos**  
-[LinkedIn](https://www.linkedin.com/in/carolinesantosti) | [GitHub](https://github.com/carolinesantosti)
+📌 Feito com ❤️ por [@carolinesantosti](https://github.com/carolinesantosti)
+"""
