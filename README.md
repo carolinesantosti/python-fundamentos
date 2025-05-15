@@ -39,6 +39,16 @@ Repositório com os exercícios práticos do Curso em Vídeo - Python (Prof. Gua
 - `ex026.py`: Conta letras "A" e mostra posição da primeira e última ocorrência.
 - `ex027.py`: Mostra o primeiro e o último nome.
 
+### Aula 10 - Condições (Parte 1)
+- `ex028.py`:	O computador “pensa” em um número de 0 a 5, e o usuário tenta adivinhar
+- `ex029.py`:	Calcula multa com base na velocidade digitada
+- `ex030.py`:	Informa se o número digitado é par ou ímpar
+- `ex031.py`:	Calcula preço da passagem com base na distância
+- `ex032.py`:	Verifica se o ano informado é bissexto
+- `ex033.py`:	Mostra o maior e o menor de três números
+- `ex034.py`:	Calcula aumento de salário com base no valor atual
+- `ex035.py`:	Verifica se três segmentos podem formar um triângulo
+
 ---
 
 🎯 **Status:** Estudo em andamento, atualizações frequentes.
